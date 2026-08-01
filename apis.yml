@@ -1,8 +1,27 @@
 aid: perfectbit-inc
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/perfectbit-inc.png
 name: Perfectbit Inc
-description: Perfectbit Inc is a company surfaced as a portfolio company of y-combinator and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  PerfectBit, Inc. is a Y Combinator-backed company that produces high-quality,
+  verifier-grounded training data for frontier AI models. Rather than relying on
+  human annotators alone, PerfectBit generates and verifies data against external
+  ground-truth sources - formal proof systems, physics and scientific simulators,
+  executable tests, and oracle databases - across text, code, image, audio, and
+  video. Its stated goal is to let AI labs "train on reality, not noise." The
+  company operates as a B2B data provider engaged in pilot work with frontier AI
+  labs, and does not currently publish a public API, developer platform, SDK, or
+  documentation surface.
 url: https://raw.githubusercontent.com/api-evangelist/perfectbit-inc/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,14 +29,32 @@ x-backed-by:
 - y-combinator
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-website: https://perfectbit.ai
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Artificial Intelligence
+- Machine Learning
+- Training Data
+- Data Verification
+- Y Combinator
 apis: []
+common:
+- type: DomainSecurity
+  url: security/perfectbit-inc-domain-security.yml
+- type: Website
+  url: https://perfectbit.ai
+- type: LLMsTxt
+  url: llms/perfectbit-inc-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1

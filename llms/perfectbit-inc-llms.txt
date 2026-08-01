@@ -1,0 +1,18 @@
+# PerfectBit, Inc.
+
+> Verifier-grounded training data for frontier AI models. PerfectBit generates and verifies data against external ground-truth sources — formal proof systems, physics and scientific simulators, executable tests, and oracle databases — across text, code, image, audio, and video. Stated goal: let AI labs "train on reality, not noise."
+
+PerfectBit is a Y Combinator-backed, San Francisco-based B2B data provider. It positions verifier-grounded (formal-system-verified) data as more reliable than human annotation alone for frontier-model training. The company engages AI labs through pilot conversations and does NOT currently publish a public API, developer platform, SDK, or documentation surface. Engagement is sales-led via a contact form.
+
+## Pages
+
+- [Home](https://perfectbit.ai/): Positioning ("Specialized data for the world's most powerful models"), methodology overview, team pedigree, contact CTA
+- [Team / About](https://perfectbit.ai/): Researchers and engineers with foundation-model training backgrounds (LLM, image, video, speech)
+- [Careers](https://perfectbit.ai/): Open positions
+- [Contact ("Talk to us")](https://perfectbit.ai/): Lead-gen form for inbound pilot conversations from AI labs
+
+## Notes
+
+- No public API, SDK, CLI, webhooks, or developer documentation is published as of 2026-07-20.
+- Engagement is via the contact form; the relationship is B2B pilot work with frontier labs.
+- Company website: https://perfectbit.ai

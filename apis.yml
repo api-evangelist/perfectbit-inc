@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/perfectbit-inc.png
-name: Perfectbit Inc
+name: Perfectbit
 description: >-
   PerfectBit, Inc. is a Y Combinator-backed company that produces high-quality,
   verifier-grounded training data for frontier AI models. Rather than relying on
@@ -47,7 +47,7 @@ modified: '2026-07-20'
 tags:
 - Company
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - Training Data
 - Data Verification
 - Y Combinator
@@ -58,6 +58,7 @@ tags_raw:
 - Training Data
 - Data Verification
 - Y Combinator
+- Machine-Learning
 apis: []
 common:
 - type: DomainSecurity
@@ -76,3 +77,4 @@ x-enrichment:
   status: minimal
   artifacts_added: 0
   pass: local-v1
+x-legal-name: Perfectbit Inc

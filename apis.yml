@@ -43,7 +43,7 @@ x-tier-reason: portfolio-lead
 x-website: https://perfectbit.ai
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-10-06'
 tags:
 - Company
 - Artificial Intelligence
@@ -61,6 +61,8 @@ tags_raw:
 - Machine-Learning
 apis: []
 common:
+- url: https://perfectbit.ai/blog/
+  type: Blog
 - type: DomainSecurity
   url: security/perfectbit-inc-domain-security.yml
 - type: Website
